@@ -1,4 +1,4 @@
-# Data-Wrangling
+# Data-Extraction
 ## Table of Contents
 * Libraries
 * Project Motivation
@@ -8,10 +8,11 @@
 ## Libraries
 The libraries used in this repository are:
 * pandas
+* BeautifulSoup
 
 
 ## Project Motivation
-This project includes basic examples of data wrangling.
+This project includes basic examples of data extraction with python.
 
 ## File Descriptions
 * **Jupiter notebooks:** Notebooks with decripteve file names. In each notebook there is also an explanation section. 
